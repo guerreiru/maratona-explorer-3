@@ -1,7 +1,5 @@
 # maratona-explorer-3
 
-<img align="right" src="src/assets/logo.svg" width="35%" alt="dt money">
-
 <br>
 
 ## Sobre o maratona-explorer-3
